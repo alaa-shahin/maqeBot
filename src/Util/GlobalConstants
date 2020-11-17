@@ -1,7 +1,0 @@
-abstract class GlobalConstants{
-  static const SLEEP_TIME = 300;
-  static const RUN_APP = 'R';
-  static const TEST_APP = 'T';
-  static bool TESTING = false;
-  static const ALL_TESTS = 'all';
-}
