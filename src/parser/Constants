@@ -1,7 +1,0 @@
-class Constants {
-  static const TURN = 'Turn';
-  static const TURN_LEFT = 'L';
-  static const TURN_RIGHT = 'R';
-  static const WALK = 'W';
-  static const MOVE = 'Move';
-}
